@@ -57,6 +57,6 @@
   
 ## 🎥 Video Demo
 
-Watch the full project demo here:  
+Watch the full project demo and Zip file here:  
 👉 [Video Demo on Google Drive](https://drive.google.com/drive/folders/1-QfDXkhLYPHtIdT7CDROcdH-BU8ILQas?usp=drive_link)
 
